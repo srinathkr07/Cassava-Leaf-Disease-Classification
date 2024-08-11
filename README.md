@@ -6,9 +6,9 @@ Using a dataset containing more than 21,000 annotated photos taken during a rout
 
 The developed model was deployed as an interactive web application using Streamlit and this proposed system also attained an overall accuracy score of 0.8887 and 0.8851 on the private and public Kaggle competition leaderboards respectively, indicating the efficiency of the approach.
 
-The dataset used can be found here: https://www.kaggle.com/c/cassava-leaf-disease-classification/
+The dataset used was obtained from Kaggle and can be found here: https://www.kaggle.com/c/cassava-leaf-disease-classification/
 
-Screenshots of the web app:
+**Screenshots of the web app:**
 
 ![image](https://github.com/user-attachments/assets/7c2c6918-e343-41be-82ac-297c94bf07fd)
 
