@@ -5,3 +5,9 @@ Cultivated extensively in the tropical regions, Cassava is a major source of ene
 Using a dataset containing more than 21,000 annotated photos taken during a routine survey in Uganda, this work aims to categorise each cassava image into four disease categories or a fifth category that indicates a healthy leaf. Transfer learning was used to train EfficientNet, a Convolutional Neural Network (CNN) model. Neural network models extract the required features automatically to classify an image into its respective class. Transfer learning is a machine learning technique in which a model created for one task is used to do another task that is related to it. 
 
 The developed model was deployed as an interactive web application using Streamlit and this proposed system also attained an overall accuracy score of 0.8887 and 0.8851 on the private and public Kaggle competition leaderboards respectively, indicating the efficiency of the approach.
+
+![image](https://github.com/user-attachments/assets/7c2c6918-e343-41be-82ac-297c94bf07fd)
+Home page of the web app
+
+![image](https://github.com/user-attachments/assets/76f6d2cc-6b2c-497e-b70f-a300dfd81b68)
+Prediction result
